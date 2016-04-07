@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="156" lt="155" ts="1459913227126" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="284" ng="1" na="1"/>
+<httpSample t="94" lt="94" ts="1459913227847" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="284" ng="2" na="2"/>
+<httpSample t="350" lt="350" ts="1459913227598" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="688" ng="2" na="2"/>
+<sample t="506" lt="505" ts="1459913226536" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-1" dt="" by="972" ng="2" na="2"/>
+<httpSample t="58" lt="58" ts="1459913228254" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="284" ng="2" na="2"/>
+<httpSample t="428" lt="428" ts="1459913228247" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="688" ng="3" na="3"/>
+<sample t="522" lt="522" ts="1459913227537" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-2" dt="" by="972" ng="3" na="3"/>
+<httpSample t="82" lt="82" ts="1459913228848" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="284" ng="3" na="3"/>
+<httpSample t="488" lt="488" ts="1459913228615" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="688" ng="3" na="3"/>
+<sample t="546" lt="546" ts="1459913227950" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-1" dt="" by="972" ng="3" na="3"/>
+<httpSample t="158" lt="158" ts="1459913228976" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="284" ng="3" na="3"/>
+<httpSample t="103" lt="103" ts="1459913229408" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="284" ng="3" na="3"/>
+<httpSample t="344" lt="344" ts="1459913229439" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="688" ng="4" na="4"/>
+<sample t="502" lt="502" ts="1459913228676" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-2" dt="" by="972" ng="4" na="4"/>
+<httpSample t="55" lt="55" ts="1459913229844" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="755" lt="755" ts="1459913229233" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="688" ng="4" na="4"/>
+<sample t="837" lt="837" ts="1459913228539" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-3" dt="" by="972" ng="4" na="4"/>
+<httpSample t="353" lt="352" ts="1459913229816" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="688" ng="4" na="4"/>
+<sample t="456" lt="455" ts="1459913229104" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-1" dt="" by="972" ng="4" na="4"/>
+<httpSample t="109" lt="109" ts="1459913230087" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="63" lt="63" ts="1459913230292" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="297" lt="297" ts="1459913230201" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="688" ng="4" na="4"/>
+<sample t="352" lt="352" ts="1459913229537" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-4" dt="" by="972" ng="4" na="4"/>
+<httpSample t="99" lt="99" ts="1459913230475" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="284" ng="5" na="5"/>
+<httpSample t="337" lt="336" ts="1459913230500" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="688" ng="5" na="5"/>
+<sample t="446" lt="445" ts="1459913229784" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-2" dt="" by="972" ng="5" na="5"/>
+<httpSample t="129" lt="129" ts="1459913230802" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="284" ng="5" na="5"/>
+<httpSample t="97" lt="97" ts="1459913230846" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="284" ng="5" na="5"/>
+<httpSample t="525" lt="525" ts="1459913230658" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="688" ng="5" na="5"/>
+<sample t="588" lt="588" ts="1459913229989" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-3" dt="" by="972" ng="5" na="5"/>
+<httpSample t="319" lt="319" ts="1459913230879" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="688" ng="5" na="5"/>
+<sample t="418" lt="418" ts="1459913230170" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-1" dt="" by="972" ng="5" na="5"/>
+<httpSample t="110" lt="110" ts="1459913231138" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="284" ng="5" na="5"/>
+<httpSample t="284" lt="284" ts="1459913231247" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="688" ng="5" na="5"/>
+<sample t="381" lt="381" ts="1459913230537" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-5" dt="" by="972" ng="5" na="5"/>
+<httpSample t="303" lt="303" ts="1459913231234" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="688" ng="6" na="6"/>
+<sample t="432" lt="432" ts="1459913230499" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-4" dt="" by="972" ng="6" na="6"/>
+<httpSample t="53" lt="53" ts="1459913231487" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="284" ng="6" na="6"/>
+<httpSample t="54" lt="54" ts="1459913231504" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="284" ng="6" na="6"/>
+<httpSample t="291" lt="291" ts="1459913231551" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="688" ng="6" na="6"/>
+<sample t="401" lt="401" ts="1459913230837" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-2" dt="" by="972" ng="6" na="6"/>
+<httpSample t="95" lt="95" ts="1459913231837" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="284" ng="6" na="6"/>
+<httpSample t="88" lt="88" ts="1459913231844" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="284" ng="6" na="6"/>
+<httpSample t="91" lt="91" ts="1459913231841" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="284" ng="6" na="6"/>
+<httpSample t="373" lt="373" ts="1459913231862" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="688" ng="6" na="6"/>
+<httpSample t="391" lt="391" ts="1459913231844" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="688" ng="6" na="6"/>
+<sample t="427" lt="427" ts="1459913231199" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-1" dt="" by="972" ng="6" na="6"/>
+<sample t="444" lt="444" ts="1459913231184" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-3" dt="" by="972" ng="6" na="6"/>
+<httpSample t="133" lt="133" ts="1459913232148" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="284" ng="5" na="5"/>
+<httpSample t="62" lt="62" ts="1459913232539" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="284" ng="5" na="5"/>
+<httpSample t="368" lt="367" ts="1459913232234" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="688" ng="5" na="5"/>
+<sample t="463" lt="462" ts="1459913231532" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-5" dt="" by="972" ng="5" na="5"/>
+<httpSample t="369" lt="369" ts="1459913232234" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="688" ng="5" na="5"/>
+<sample t="457" lt="457" ts="1459913231536" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-6" dt="" by="972" ng="5" na="5"/>
+<httpSample t="366" lt="365" ts="1459913232238" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="688" ng="5" na="5"/>
+<sample t="457" lt="456" ts="1459913231537" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-4" dt="" by="972" ng="5" na="5"/>
+<httpSample t="401" lt="401" ts="1459913232583" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="688" ng="5" na="5"/>
+<sample t="534" lt="534" ts="1459913231844" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-2" dt="" by="972" ng="5" na="5"/>
+<httpSample t="86" lt="86" ts="1459913232907" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="215" lt="214" ts="1459913232907" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="218" lt="218" ts="1459913232908" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="375" lt="375" ts="1459913232907" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="688" ng="4" na="4"/>
+<sample t="437" lt="437" ts="1459913232236" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-3" dt="" by="972" ng="4" na="4"/>
+<httpSample t="327" lt="327" ts="1459913233299" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="688" ng="4" na="4"/>
+<sample t="413" lt="413" ts="1459913232603" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-6" dt="" by="972" ng="4" na="4"/>
+<httpSample t="77" lt="77" ts="1459913233586" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="357" lt="356" ts="1459913233427" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="688" ng="4" na="4"/>
+<httpSample t="354" lt="353" ts="1459913233430" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="688" ng="4" na="4"/>
+<sample t="572" lt="570" ts="1459913232602" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-5" dt="" by="972" ng="4" na="4"/>
+<sample t="572" lt="571" ts="1459913232604" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-4" dt="" by="972" ng="4" na="4"/>
+<httpSample t="50" lt="50" ts="1459913233930" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="50" lt="50" ts="1459913234087" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="50" lt="50" ts="1459913234087" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="284" ng="4" na="4"/>
+<httpSample t="388" lt="388" ts="1459913233966" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-3" dt="text" by="688" ng="4" na="4"/>
+<sample t="465" lt="465" ts="1459913233282" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-3" dt="" by="972" ng="4" na="4"/>
+<httpSample t="404" lt="403" ts="1459913234285" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="688" ng="3" na="3"/>
+<sample t="454" lt="453" ts="1459913233626" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-6" dt="" by="972" ng="3" na="3"/>
+<httpSample t="305" lt="305" ts="1459913234443" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="688" ng="3" na="3"/>
+<sample t="355" lt="355" ts="1459913233785" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-5" dt="" by="972" ng="3" na="3"/>
+<httpSample t="306" lt="306" ts="1459913234443" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-4" dt="text" by="688" ng="3" na="3"/>
+<sample t="356" lt="356" ts="1459913233785" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-4" dt="" by="972" ng="3" na="3"/>
+<httpSample t="36" lt="36" ts="1459913234992" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="284" ng="2" na="2"/>
+<httpSample t="89" lt="89" ts="1459913235054" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="284" ng="2" na="2"/>
+<httpSample t="702" lt="702" ts="1459913235333" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="688" ng="2" na="2"/>
+<sample t="738" lt="738" ts="1459913234689" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-6" dt="" by="972" ng="2" na="2"/>
+<httpSample t="633" lt="633" ts="1459913235448" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-5" dt="text" by="688" ng="2" na="2"/>
+<sample t="722" lt="722" ts="1459913234749" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-5" dt="" by="972" ng="2" na="2"/>
+<httpSample t="418" lt="418" ts="1459913236339" s="true" lb="12" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="284" ng="1" na="1"/>
+<httpSample t="593" lt="593" ts="1459913237061" s="true" lb="251 /account/ajax/passwordLogin" rc="200" rm="OK" tn="线程组 1-6" dt="text" by="688" ng="1" na="1"/>
+<sample t="1011" lt="1011" ts="1459913236035" s="true" lb="事务控制器" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="线程组 1-6" dt="" by="972" ng="1" na="1"/>
+
+</testResults>

@@ -1,0 +1,4 @@
+uri;count;total;min;average;max;standarddeviation;persecond;errors
+"12";50;19191;39;383;1422;314;2;0
+"事务控制器";50;50977;418;1019;2377;517;2;0
+"251 /account/ajax/passwordLogin";50;31786;319;635;1750;354;2;0

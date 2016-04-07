@@ -1,0 +1,31 @@
+Group: 线程组
+  time: 20160407T141135+0800 - 20160407T141145+0800
+  total duration:       11
+  requests:             90
+  requests per second:  8
+  response duration (ms)
+    min:                45
+    average:            490
+    max:                1630
+    standard deviation: 342
+    quantiles (ms)
+         10%       98
+         20%      131
+         30%      326
+         40%      401
+         50%      457
+         60%      505
+         70%      604
+         80%      685
+         90%      847
+         99%     1548
+       99.9%     1548
+      100.0%     1630 (max. value)
+  response size (bytes)
+    total:              58320
+    min:                284
+    average:            648
+    max:                972
+    standard deviation: 282
+  response status codes
+    200:                  90 (100%)

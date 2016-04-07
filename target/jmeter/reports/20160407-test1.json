@@ -1,0 +1,22 @@
+{
+  "performanceData":
+  [
+    {
+      "min": 45,
+      "max": 1630,
+      "quantile90": 847,
+      "average": 490,
+      "total": 90,
+      "statusCodes":{
+                      "200": 90
+                    },
+      "uriByStatusCode":{
+                          "200": [
+                                  "12",
+                                  "事务控制器",
+                                  "251 /account/ajax/passwordLogin"
+                                 ]
+                        }
+    }
+  ]
+}
