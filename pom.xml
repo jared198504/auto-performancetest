@@ -88,7 +88,7 @@
                         <!--
                         directory where to store analysis report files. At least a file "summary.txt" will be stored here.
                         -->
-                        <targetDirectory>${project.build.directory}/jmeter/reports</targetDirectory>
+                        <targetDirectory>${project.build.directory}/jmeter/reports/</targetDirectory>
 
                         <processAllFilesFound>true</processAllFilesFound>
 
